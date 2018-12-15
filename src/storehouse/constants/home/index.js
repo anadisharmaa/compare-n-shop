@@ -1,0 +1,12 @@
+/*
+ * defining all the home module constants
+ */
+
+export const home = {
+  SELECTED_CATEGORY: 'SELECTED_CATEGORY',
+  SELECTED_PRODUCT: 'SELECTED_PRODUCT',
+  ADD_TO_CART: 'ADD_TO_CART',
+  BUILD_KEYWORDS: 'BUILD_KEYWORDS',
+  BUILD_SEARCH_DATA: 'BUILD_SEARCH_DATA',
+  RESET: 'RESET'
+};

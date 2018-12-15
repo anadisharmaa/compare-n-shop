@@ -1,0 +1,15 @@
+.server-error-div {
+    position: absolute;
+    font-size: 18px;
+    color: #e27963;
+    border: 1px solid #e27963;
+    min-width: 79%;
+    padding: 10px;
+    margin-top: 10px;
+    background: #fff;
+}
+
+.server-error-div i {
+    margin-right: 8px;
+    font-size: 22px;
+}
